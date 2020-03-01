@@ -1,5 +1,7 @@
 # 06-Juicy-Breakout
 
+I implemented a 7 features The first feature that I implemented was changing the size of the ball when it hits anything. Then, I made it so that the ball changes to a random color when it hits anything. Next, I made the paddle do the same. Then I made the ball, the paddle, and the tiles all start at a random color. Then, I finally added in screen shake. 
+
 This is an opportunity for you to implement some of the "juicy" features as demonstrated in the 2012 GDC presentation, "Juice it or Lose it."
 
 I have provided a simple, generic brick breaker game, built in Godot. You can use the presentation as a guide or use your own imagination, but your assignment is to make the game feel more "juicy": kinetic, reactive, physical.
